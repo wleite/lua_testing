@@ -34,4 +34,4 @@ factors_of_the_universe = get_all_factors(the_universe)
 print("Count",	"The Factors of Life, the Universe, and Everything")
 for i, v in ipairs(factors_of_the_universe) do
     print(i, v)
-  end
+end
