@@ -1,5 +1,5 @@
 # Lua Learning Scripts
-Some Lua testing scripts to learn the language
+Some Lua testing scripts to learn the language 5.3
 
 https://www.lua.org/start.html
 
